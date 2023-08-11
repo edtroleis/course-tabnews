@@ -6,6 +6,8 @@ git commit --amend -m "<message>"                             # append to commit
 
 git add .; git commit -m "<message>"; git push origin main    # add, commit and push to remote repository
 
+git 
+
 git push --force|-f                                           # force push to origin
 ```
 
